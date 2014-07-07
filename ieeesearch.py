@@ -28,6 +28,20 @@ class SearchEngine:
         self._hc = 0
         self._rs = 0
 
+    def make_test_query(self, query_text):
+        """
+        Gets the amount of results found by the search engine at IEEE
+        :return: integer of amount of results
+        """
+        # Set the query text
+        self.set_query(query_text)
+        # Set the paging to just get 1 entry
+        self.set_paging(1, 1)
+        # Perform the query
+        self.perform_query()
+        # And then return the amount of results
+        return self._contents
+
     def perform_query(self):
         """
         Creates the query and runs it at the IEEE server
