@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+<totalfound>5109</totalfound>
+
+<totalsearched>3748954</totalsearched>
+
+<document>
+
+<rank>1</rank>
+
+<title><![CDATA[Extending a game authoring tool for ubiquitous education]]></title>
+
+<authors><![CDATA[Marchiori, E.J.;  Torrente, J.;  del Blanco, A.;  Marti&#x0301; nez-Ortiz, I.;  Fernandez-Manjon, B.]]></authors>
+
+<affiliations><![CDATA[Dept. of Software Eng. & Artificial Intell., Complutense Univ., Madrid, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[authoring systems]]></term>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[interactive systems]]></term>
+
+<term><![CDATA[microcomputers]]></term>
+
+<term><![CDATA[mobile computing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Application software]]></term>
+
+<term><![CDATA[Artificial intelligence]]></term>
+
+<term><![CDATA[Computer science education]]></term>
+
+<term><![CDATA[Costs]]></term>
+
+<term><![CDATA[Educational technology]]></term>
+
+<term><![CDATA[Engines]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Global Positioning System]]></term>
+
+<term><![CDATA[Microcomputers]]></term>
+
+<term><![CDATA[Software engineering]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Ubi-media Computing (U-Media), 2010 3rd IEEE International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5523685]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[171]]></spage>
+
+<epage><![CDATA[178]]></epage>
+
+<abstract><![CDATA[Educational game authoring tools allow for the creation of educational games for personal computers and web-browsers reducing costs and development cycles. However, gaming has changed in the last few years, with a significant increase of games developed for mobile devices. We propose an extension of existing educational game authoring tools that allows for a seamless adaptation of current games to mobile platforms and to take advantage of the new features provide by mobile devices (e.g. GPS, compass) at the same time. Additionally, mobile educational games allow for ubiquitous learning by providing highly interactive and engaging contents with educational value in different situations. We have exemplified our approach extending the &lt;;e-Adventure&gt; educational game platform and using Android&#x2122; as the target platform. We present the identified challenges and the proposed solutions to explore the ubiquitous educational gaming possibilities.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-6708-2]]></isbn>
+
+<arnumber><![CDATA[5544476]]></arnumber>
+
+<doi><![CDATA[10.1109/UMEDIA.2010.5544476]]></doi>
+
+<publicationId><![CDATA[5544476]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5544476&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5544476]]></pdf>
+
+</document>
+
+<document>
+
+<rank>2</rank>
+
+<title><![CDATA[Maturity model for advancing smart grid interoperability]]></title>
+
+<authors><![CDATA[Knight, M.;  Widergren, S.;  Mater, J.;  Montgomery, A.]]></authors>
+
+<controlledterms>
+
+<term><![CDATA[Capability Maturity Model]]></term>
+
+<term><![CDATA[energy management systems]]></term>
+
+<term><![CDATA[open systems]]></term>
+
+<term><![CDATA[power system interconnection]]></term>
+
+<term><![CDATA[smart power grids]]></term>
+
+</controlledterms>
+
+<pubtitle><![CDATA[Innovative Smart Grid Technologies (ISGT), 2013 IEEE PES]]></pubtitle>
+
+<punumber><![CDATA[6490106]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2013]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[6]]></epage>
+
+<abstract><![CDATA[Interoperability is about the properties of devices and systems to connect and work properly. Advancing interoperability eases integration and maintenance of the resulting interconnection. This leads to faster integration, lower labor and component costs, predictability of projects and the resulting performance, and evolutionary paths for upgrade. When specifications are shared and standardized, competition and novel solutions can bring new value streams to the community of stakeholders involved. Advancing interoperability involves reaching agreement for how things join at their interfaces. The quality of the agreements and the alignment of parties involved in the agreement present challenges that are best met with process improvement techniques. The GridWise<sup>&#x00AE;</sup> Architecture Council (GWAC) sponsored by the United States Department of Energy is supporting an effort to use concepts from capability maturity models used in the software industry to advance interoperability of smart grid technology. An interoperability maturity model has been drafted and experience is being gained through trials on various types of projects and community efforts. This paper describes the value and objectives of maturity models, the nature of the interoperability maturity model and how it compares with other maturity models, and experiences gained with its use.]]></abstract>
+
+<isbn><![CDATA[978-1-4673-4894-2]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6497915]]></arnumber>
+
+<doi><![CDATA[10.1109/ISGT.2013.6497915]]></doi>
+
+<publicationId><![CDATA[6497915]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6497915&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6497915]]></pdf>
+
+</document>
+
+<document>
+
+<rank>3</rank>
+
+<title><![CDATA[A Model-Driven Framework to Support Development of Serious Games for Game-based Learning]]></title>
+
+<authors><![CDATA[Tang, S.;  Hanneghan, M.]]></authors>
+
+<affiliations><![CDATA[Sch. of Comput. & Math. Sci., Liverpool John Moores Univ., Liverpool, UK]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[software engineering]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Engines]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Generators]]></term>
+
+<term><![CDATA[Production]]></term>
+
+<term><![CDATA[Software]]></term>
+
+<term><![CDATA[Unified modeling language]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Developments in E-systems Engineering (DESE), 2010]]></pubtitle>
+
+<punumber><![CDATA[5629471]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[95]]></spage>
+
+<epage><![CDATA[100]]></epage>
+
+<abstract><![CDATA[Computer games, predominantly a form of interactive entertainment, have been repurposed for game-based learning in recent years. Many studies have presented the educational value that computer games possess with evidence that supports the positive experiences of game-based learning. Game-based learning could be an invaluable learning approach for the 21<sup>st</sup> century, but is currently hindered by the lack of availability of serious games to support this innovative approach. Developments in software engineering that enable automatic generation of software artefacts through modelling promises new hope for game-based learning adopters, especially those with little or no technical knowledge, to produce their own serious games for use in game-based learning. This paper presents a new framework based on a model-driven approach designed to aid non-technical domain experts in the production of serious games.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-8044-9]]></isbn>
+
+<arnumber><![CDATA[5633373]]></arnumber>
+
+<doi><![CDATA[10.1109/DeSE.2010.23]]></doi>
+
+<publicationId><![CDATA[5633373]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5633373&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5633373]]></pdf>
+
+</document>
+
+<document>
+
+<rank>4</rank>
+
+<title><![CDATA[Motivation and Multimodal Interaction in Model-Driven Educational Game Design]]></title>
+
+<authors><![CDATA[Jovanovic, M.;  Starcevic, D.;  Minovic, M.;  Stavljanin, V.]]></authors>
+
+<affiliations><![CDATA[Univ. of Belgrade, Belgrade, Serbia]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[formal specification]]></term>
+
+<term><![CDATA[human computer interaction]]></term>
+
+<term><![CDATA[human factors]]></term>
+
+<term><![CDATA[user interfaces]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Adaptation model]]></term>
+
+<term><![CDATA[Bridges]]></term>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Education]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Humans]]></term>
+
+<term><![CDATA[Unified modeling language]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Systems, Man and Cybernetics, Part A: Systems and Humans, IEEE Transactions on]]></pubtitle>
+
+<punumber><![CDATA[3468]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[41]]></volume>
+
+<issue><![CDATA[4]]></issue>
+
+<py><![CDATA[2011]]></py>
+
+<spage><![CDATA[817]]></spage>
+
+<epage><![CDATA[824]]></epage>
+
+<abstract><![CDATA[In this correspondence, we present an approach to identifying and constructing profiles of user interfaces for educational games. Our approach is based on framing games as educational tools that incorporate fun and learning through motivation as the key ingredient in the learning process and multimodal interaction as the medium for conveying educational material. The proposed solution formalizes the design process, describing educational games in terms of estimated effects that they produce on players. Building upon research on learning and motivation theory, we are connecting these effects with player learning preferences and motivation states. The essence of our solution is the educational game metamodel (EGM), which defines platform-independent educational game concepts. Using the EGM, we have explored novel design approaches for educational games. The metamodel can be used as a conceptual basis for creation of platform-independent educational games, allowing authoring for device and network independence.]]></abstract>
+
+<issn><![CDATA[1083-4427]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5762641]]></arnumber>
+
+<doi><![CDATA[10.1109/TSMCA.2011.2132711]]></doi>
+
+<publicationId><![CDATA[5762641]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5762641&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5762641]]></pdf>
+
+</document>
+
+<document>
+
+<rank>5</rank>
+
+<title><![CDATA[Fusing games technology and pedagogy for games-based learning through a model driven approach]]></title>
+
+<authors><![CDATA[Tang, S.;  Hanneghan, M.]]></authors>
+
+<affiliations><![CDATA[Sch. of Comput. & Math. Sci., Liverpool John Moores Univ., Liverpool, UK]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[software engineering]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Education]]></term>
+
+<term><![CDATA[Engines]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Object oriented modeling]]></term>
+
+<term><![CDATA[Software]]></term>
+
+<term><![CDATA[Unified modeling language]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Humanities, Science and Engineering (CHUSER), 2011 IEEE Colloquium on]]></pubtitle>
+
+<punumber><![CDATA[6156581]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2011]]></py>
+
+<spage><![CDATA[380]]></spage>
+
+<epage><![CDATA[385]]></epage>
+
+<abstract><![CDATA[Computer games have been closely linked to learning in recent years through the educational potential of game-based learning. Many believe that it is now appropriate to adopt this innovative approach to motivate the current generation of learners in regaining their interest in learning certain topics. However, this approach is impeded by the limited availability of `serious' games. Developments in software engineering that enable automatic generation of software artefacts through diagrams and modelling techniques promises a new hope for game-based learning adopters, especially those with little or no technical knowledge, to produce their own serious games for use in game-based learning. This paper describes our model-driven approach designed to aid non-technical domain experts in the production of serious games.]]></abstract>
+
+<isbn><![CDATA[978-1-4673-0021-6]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6163756]]></arnumber>
+
+<doi><![CDATA[10.1109/CHUSER.2011.6163756]]></doi>
+
+<publicationId><![CDATA[6163756]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6163756&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6163756]]></pdf>
+
+</document>
+
+<document>
+
+<rank>6</rank>
+
+<title><![CDATA[From visual simulation to virtual reality to games]]></title>
+
+<authors><![CDATA[Zyda, M.]]></authors>
+
+<affiliations><![CDATA[Inf. Sci. Inst., Univ. of Southern California, Marina del Rey, CA, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[organisational aspects]]></term>
+
+<term><![CDATA[virtual reality]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Art]]></term>
+
+<term><![CDATA[Buildings]]></term>
+
+<term><![CDATA[Computer aided instruction]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Government]]></term>
+
+<term><![CDATA[Humans]]></term>
+
+<term><![CDATA[Industrial training]]></term>
+
+<term><![CDATA[Research and development]]></term>
+
+<term><![CDATA[Toy industry]]></term>
+
+<term><![CDATA[Virtual reality]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Computer]]></pubtitle>
+
+<punumber><![CDATA[2]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[38]]></volume>
+
+<issue><![CDATA[9]]></issue>
+
+<py><![CDATA[2005]]></py>
+
+<spage><![CDATA[25]]></spage>
+
+<epage><![CDATA[32]]></epage>
+
+<abstract><![CDATA[During the past decades, the virtual reality community has based its development on a synthesis of earlier work in interactive 3D graphics, user interfaces, and visual simulation. Currently, the VR field is transitioning into work influenced by video games. Because much of the research and development being conducted in the games community parallels the VR community's efforts, it has the potential to affect a greater audience. Given these trends, VR researchers who want their work to remain relevant must realign to focus on game research and development. Leveraging technology from the visual simulation and virtual reality communities, serious games provide a delivery system for organizational video game instruction and training.]]></abstract>
+
+<issn><![CDATA[0018-9162]]></issn>
+
+<arnumber><![CDATA[1510565]]></arnumber>
+
+<doi><![CDATA[10.1109/MC.2005.297]]></doi>
+
+<publicationId><![CDATA[1510565]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1510565&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1510565]]></pdf>
+
+</document>
+
+<document>
+
+<rank>7</rank>
+
+<title><![CDATA[Handheld AR games &#x2014; A triarchic conceptual design framework]]></title>
+
+<authors><![CDATA[Yu-Ning Chang;  Koh, R.K.C.;  Duh, H.B.-L.]]></authors>
+
+<affiliations><![CDATA[Inst. of Commun. Studies, Nat. Chiao Tung Univ., Hsinchu, Taiwan]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[augmented reality]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[ubiquitous computing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Collaboration]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Handheld computers]]></term>
+
+<term><![CDATA[Mobile communication]]></term>
+
+<term><![CDATA[Performance evaluation]]></term>
+
+<term><![CDATA[Three dimensional displays]]></term>
+
+<term><![CDATA[Tracking]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Mixed and Augmented Reality - Arts, Media, and Humanities (ISMAR-AMH), 2011 IEEE International Symposium On]]></pubtitle>
+
+<punumber><![CDATA[6085644]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2011]]></py>
+
+<spage><![CDATA[29]]></spage>
+
+<epage><![CDATA[36]]></epage>
+
+<abstract><![CDATA[The rapid development of handheld Augmented Reality (AR) technologies has raised profound interests in the design of handheld AR games. Studies in this area however did not draw attention explicitly on design concepts, especially in the possible exploitation of their inherent characteristics to impact game experiences. Based on literature review, this paper identifies the game elements that are designed based on, or around the definitive advantages and/or limitations of handheld AR as a form of pervasive technology that may affect game play experiences. Handheld AR game experiences are examined and can be described through a proposed triarchic interplay of coherent associations comprising of fundamental system, interaction and application levels. Future work will include intricate studies on game design for handheld AR games, so as to extend the current findings with other integrative game design and technological elements.]]></abstract>
+
+<isbn><![CDATA[978-1-4673-0057-5]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6093653]]></arnumber>
+
+<doi><![CDATA[10.1109/ISMAR-AMH.2011.6093653]]></doi>
+
+<publicationId><![CDATA[6093653]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6093653&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6093653]]></pdf>
+
+</document>
+
+<document>
+
+<rank>8</rank>
+
+<title><![CDATA[Games with a Purpose for the Semantic Web]]></title>
+
+<authors><![CDATA[Siorpaes, K.;  Hepp, M.]]></authors>
+
+<affiliations><![CDATA[Semantic Technol. Inst. (STI), Univ. of Innsbruck, Innsbruck]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[ontologies (artificial intelligence)]]></term>
+
+<term><![CDATA[semantic Web]]></term>
+
+</controlledterms>
+
+<pubtitle><![CDATA[Intelligent Systems, IEEE]]></pubtitle>
+
+<punumber><![CDATA[9670]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[23]]></volume>
+
+<issue><![CDATA[3]]></issue>
+
+<py><![CDATA[2008]]></py>
+
+<spage><![CDATA[50]]></spage>
+
+<epage><![CDATA[60]]></epage>
+
+<abstract><![CDATA[Weaving the semantic Web requires that humans contribute their labor and judgment for creating, extending, and updating formal knowledge structures. Hiding such tasks behind online multiplayer games presents the tasks as fun and intellectually challenging entertainment. The games we've presented are the first prototypes of the OntoGame series. We're extending and improving the scenarios in several directions.]]></abstract>
+
+<issn><![CDATA[1541-1672]]></issn>
+
+<arnumber><![CDATA[4525142]]></arnumber>
+
+<doi><![CDATA[10.1109/MIS.2008.45]]></doi>
+
+<publicationId><![CDATA[4525142]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4525142&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4525142]]></pdf>
+
+</document>
+
+<document>
+
+<rank>9</rank>
+
+<title><![CDATA[Using the levels of conceptual interoperability model and model-based data engineering to develop a modular interoperability framework]]></title>
+
+<authors><![CDATA[Diallo, S.Y.;  Tolk, A.;  Graff, J.;  Barraco, A.]]></authors>
+
+<affiliations><![CDATA[Virginia Modeling Anal. & Simulation Center, Old Dominion Univ., Suffolk, VA, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[XML]]></term>
+
+<term><![CDATA[military systems]]></term>
+
+<term><![CDATA[open systems]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Adaptation models]]></term>
+
+<term><![CDATA[Analytical models]]></term>
+
+<term><![CDATA[Automata]]></term>
+
+<term><![CDATA[Data models]]></term>
+
+<term><![CDATA[Mathematical model]]></term>
+
+<term><![CDATA[USA Councils]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Simulation Conference (WSC), Proceedings of the 2011 Winter]]></pubtitle>
+
+<punumber><![CDATA[6135535]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2011]]></py>
+
+<spage><![CDATA[2571]]></spage>
+
+<epage><![CDATA[2581]]></epage>
+
+<abstract><![CDATA[This paper describes how to use the Levels of Conceptual Interoperability (LCIM) as the theoretical backbone for developing and implementing an interoperability framework that supports the exchange of XML-based languages used by M&amp;S systems across the web. The principles of Model-based Data Engineering (MBDE) are integrated within the framework to support the interactions between systems across the layers of the LCIM. We present a use case that shows how the framework supports the interoperability of heterogeneous military systems.]]></abstract>
+
+<issn><![CDATA[0891-7736]]></issn>
+
+<isbn><![CDATA[978-1-4577-2108-3]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6147965]]></arnumber>
+
+<doi><![CDATA[10.1109/WSC.2011.6147965]]></doi>
+
+<publicationId><![CDATA[6147965]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6147965&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6147965]]></pdf>
+
+</document>
+
+<document>
+
+<rank>10</rank>
+
+<title><![CDATA[T2FS-based Adaptive Linguistic Assessment System for Semantic Analysis and Human Performance Evaluation on Game of Go]]></title>
+
+<authors><![CDATA[Lee, C.;  Wang, M.;  Wu, M.;  Teytaud, O.;  Yen, S.]]></authors>
+
+<affiliations><![CDATA[Chang-Shing Lee is with the Department of Computer Science and Information Engineering, National University of Tainan, Taiwan.(email:leecs@mail.nutn.edu.tw)]]></affiliations>
+
+<thesaurusterms>
+
+<term><![CDATA[Adaptation models]]></term>
+
+<term><![CDATA[Adaptive systems]]></term>
+
+<term><![CDATA[Computers]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Ontologies]]></term>
+
+<term><![CDATA[Pragmatics]]></term>
+
+<term><![CDATA[Tin]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Fuzzy Systems, IEEE Transactions on]]></pubtitle>
+
+<punumber><![CDATA[91]]></punumber>
+
+<pubtype><![CDATA[Early Access Articles]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[PP]]></volume>
+
+<issue><![CDATA[99]]></issue>
+
+<py><![CDATA[2014]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[1]]></epage>
+
+<abstract><![CDATA[The game of Go is a long-history board game that is much more complex than chess. The uncertainties of this game will be higher when the board size gets bigger. For evaluating the human performance on Go games, one human could be advanced to a higher rank based on the number of winning games via a formal human against human competition. However, a human Go player&#x2019;s performance could be influenced by some factors, such as the on-the-spot environment as well as physical and mental situations of the day, which causes the difficulty and uncertainty in certificating the human&#x2019;s rank. Thanks to a sample of one player&#x2019;s games, evaluating his/her strength by classical models such as the Bradley-Terry model is possible. However, due to inhomogeneous game conditions and limited access to archives of games, such estimates can be imprecise. Also, classical rankings (1 Dan, 2 Dan, ...) are integers, leading to a rather imprecise estimate of the opponent&#x2019;s strengths. Therefore, we propose to use a sample of games played against a computer to estimate the human&#x2019;s strength. In order to increase the precision, the strength of the computer is adapted from one move to the next by increasing or decreasing the computational power based on the current situation and the result of games. The human can decide some specific conditions, such as komi and board size. In this paper, we use T2FSs with parameters optimized by a genetic algorithm for estimating the rank in a stable manner, independently of the board size. More precisely, an adaptive Monte Carlo Tree Search (MCTS) estimates the number of simulations, corresponding to the strength of its opponents. Next, the T2FS-based adaptive linguistic assessment system infers the human performance and presents the results using the linguistic description. The experimental results show the proposed approach is feasible for the application to the adaptive linguistic assessment on human Go player&#x2019;s pe- formance.]]></abstract>
+
+<issn><![CDATA[1063-6706]]></issn>
+
+<arnumber><![CDATA[6776492]]></arnumber>
+
+<doi><![CDATA[10.1109/TFUZZ.2014.2312989]]></doi>
+
+<publicationId><![CDATA[6776492]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6776492&contentType=Early+Access+Articles]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6776492]]></pdf>
+
+</document>
+
+<document>
+
+<rank>11</rank>
+
+<title><![CDATA[Development and Deployment of Cross-Platform 3D Web-based Games]]></title>
+
+<authors><![CDATA[Carter, C.;  Rhalibi, A.E.;  Merabti, M.]]></authors>
+
+<affiliations><![CDATA[Sch. of Comput. & Math. Sci., Liverpool John Moores Univ., Liverpool, UK]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Internet]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[middleware]]></term>
+
+<term><![CDATA[operating systems (computers)]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Browsers]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Libraries]]></term>
+
+<term><![CDATA[Physics]]></term>
+
+<term><![CDATA[Rendering (computer graphics)]]></term>
+
+<term><![CDATA[Three dimensional displays]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Developments in E-systems Engineering (DESE), 2010]]></pubtitle>
+
+<punumber><![CDATA[5629471]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[149]]></spage>
+
+<epage><![CDATA[154]]></epage>
+
+<abstract><![CDATA[Digital distribution is becoming an increasingly important technique within the games industry. The leading consoles each possess their own bespoke platform to digitally deploy game applications to their users via the Internet, whilst the Windows and Mac OS X gaming market is catered for by systems such as Valve's Steam platform. However, these digital content services are often machine-specific, proprietary systems, utilising custom web frameworks and a rigid publication system. In this paper we present an overview of the Homura games framework and +et Homura deployment middleware. Homura provides an integrated solution for Java based 3D games development. We also discuss a novel architecture and prototype system, which aims to unify the deployment of hardware accelerated Java-based 3D games applications with online capabilities. +et Homura provides a multi-tiered deployment platform that is secure, robust, and easily portable to a wide range of web servers; whilst the networking middleware component of +et Homura allows developers to build content and feature rich online games in conjunction with the Homura Engine and IDE. Due to nature of the technologies used within the +et Homura framework, it is possible to enable the creation of a game which, from development through to hosting, deployment and networking, can be created with little or no financial outlay for the developer by utilising open source technologies.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-8044-9]]></isbn>
+
+<arnumber><![CDATA[5633688]]></arnumber>
+
+<doi><![CDATA[10.1109/DeSE.2010.32]]></doi>
+
+<publicationId><![CDATA[5633688]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5633688&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5633688]]></pdf>
+
+</document>
+
+<document>
+
+<rank>12</rank>
+
+<title><![CDATA[Games in the workplace: Revolutionary or run-of-the-mill?]]></title>
+
+<authors><![CDATA[Li, C.;  Ranganathan, S.;  Vijayachandran, S.]]></authors>
+
+<affiliations><![CDATA[Lync team, Microsoft, Redmond, WA, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[productivity]]></term>
+
+<term><![CDATA[program testing]]></term>
+
+<term><![CDATA[software development management]]></term>
+
+<term><![CDATA[software quality]]></term>
+
+<term><![CDATA[team working]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Ink]]></term>
+
+<term><![CDATA[Mobile communication]]></term>
+
+<term><![CDATA[Productivity]]></term>
+
+<term><![CDATA[Testing]]></term>
+
+<term><![CDATA[Usability]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Games Innovation Conference (IGIC), 2013 IEEE International]]></pubtitle>
+
+<punumber><![CDATA[6653327]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2013]]></py>
+
+<spage><![CDATA[138]]></spage>
+
+<epage><![CDATA[147]]></epage>
+
+<abstract><![CDATA[Quality means very different things to different people - and when it comes to software all perceptions of quality are valid, and all approaches must be tested. So to produce high quality software in today's networked universe, you need to test all possible combinations which isn't practically feasible, or you need to test differently. When we run our tests, we essentially train the software. Traditional test strategies focus on feature or component level testing through either manual or automated means, but may not account for end-user scenario-based<sup>1</sup> testing or usability related aspects of the product as a whole. On the Lync team, we use productivity games<sup>2</sup> specifically designed for our features and signature scenarios as a way to complement traditional workplace testing methodologies, and to expand how we test software. This paper discuss how we used productivity games to enhance the quality of our products by improving team collaboration, employee engagement, and cost savings. We illustrate the use of productivity games in the workplace as a way to involve many faces of quality into the software development lifecycle<sup>3</sup> by including all major stakeholders into the gaming experience and targeting multiple platforms. We also show examples of how structured productivity games improve software quality, ensure a highly productive workforce and transform an often mundane task of software testing into a fun activity. While our research shows that productivity games have improved the quality of our product, this paper does not provide actual results of the metrics on this due to proprietary concerns.]]></abstract>
+
+<issn><![CDATA[2166-6741]]></issn>
+
+<isbn><![CDATA[978-1-4799-1244-5]]></isbn>
+
+<arnumber><![CDATA[6659131]]></arnumber>
+
+<doi><![CDATA[10.1109/IGIC.2013.6659131]]></doi>
+
+<publicationId><![CDATA[6659131]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6659131&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6659131]]></pdf>
+
+</document>
+
+<document>
+
+<rank>13</rank>
+
+<title><![CDATA[Exploiting traditional gameplay characteristics to enhance digital board games]]></title>
+
+<authors><![CDATA[Frapolli, F.;  Malatras, A.;  Hirsbrunner, B.]]></authors>
+
+<affiliations><![CDATA[Dept. of Inf., Univ. of Fribourg, Fribourg, Switzerland]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer games]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Complexity theory]]></term>
+
+<term><![CDATA[Computer architecture]]></term>
+
+<term><![CDATA[Computers]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Runtime]]></term>
+
+<term><![CDATA[Usability]]></term>
+
+<term><![CDATA[Visualization]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Games Innovations Conference (ICE-GIC), 2010 International IEEE Consumer Electronics Society's]]></pubtitle>
+
+<punumber><![CDATA[5712963]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[8]]></epage>
+
+<abstract><![CDATA[Computer enhanced board and card games constitute a highly engaging and entertaining activity as attested by their widespread popularity and the large amount of dedicated players. Nonetheless, when considering these digital counterparts of traditional board games it becomes evident that certain features of the latter, such as the flexibility of games and the inherent social interactions that regard the player as an active participant and not merely as the end-user of a product, have been in general neglected. In particular, the ability to customize and adapt games according to the players' needs is one of the key factors of their success and should thus not be ignored when porting them to the digital environment. In this paper we present our work on a holistic framework titled FlexibleRules that addresses these limitations by bringing the intrinsic flexibility of board games played in the traditional environment into the digital one, while additionally aiming to increase the level of involvement of end-users, the players, with basic programing skills, in the game development process. A multi-faceted user evaluation study validates the effectiveness of our approach and provides encouraging results for further research.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-7178-2]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5716897]]></arnumber>
+
+<doi><![CDATA[10.1109/ICEGIC.2010.5716897]]></doi>
+
+<publicationId><![CDATA[5716897]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5716897&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5716897]]></pdf>
+
+</document>
+
+<document>
+
+<rank>14</rank>
+
+<title><![CDATA[Homura and Net-Homura: The creation and web-based deployment of cross-platform 3D games]]></title>
+
+<authors><![CDATA[Carter, C.;  El Rhalibi, A.;  Merabti, M.;  Price, M.]]></authors>
+
+<affiliations><![CDATA[Sch. of Comput. & Math. Sci., Liverpool John Moores Univ., Liverpool, UK]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Internet]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[online front-ends]]></term>
+
+<term><![CDATA[remote consoles]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computer industry]]></term>
+
+<term><![CDATA[Distributed computing]]></term>
+
+<term><![CDATA[Internet]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Job production systems]]></term>
+
+<term><![CDATA[Prototypes]]></term>
+
+<term><![CDATA[Research and development]]></term>
+
+<term><![CDATA[Search engines]]></term>
+
+<term><![CDATA[Standards development]]></term>
+
+<term><![CDATA[Toy industry]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Ultra Modern Telecommunications & Workshops, 2009. ICUMT '09. International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5340227]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[8]]></epage>
+
+<abstract><![CDATA[Digital distribution is becoming an increasingly important method within the games industry. The leading consoles each possess their own bespoke platform to digitally deploy games applications to their users via the Internet, whilst the Windows PC gaming market is catered for by systems such as Valve's Steam platform. However, these digital content services are often machine-specific, proprietary, utilising custom Web frameworks and a rigid publication system. In this paper, we present Homura and NetHomura; two interconnected frameworks which facilitate the development and deployment of cross-platform, hardware-accelerated 3D games applications using standard Web browsers and Web technologies, using a combination of Java and PHP.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-3942-3]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5345337]]></arnumber>
+
+<doi><![CDATA[10.1109/ICUMT.2009.5345337]]></doi>
+
+<publicationId><![CDATA[5345337]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5345337&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345337]]></pdf>
+
+</document>
+
+<document>
+
+<rank>15</rank>
+
+<title><![CDATA[Integration of SCORM packages into web games]]></title>
+
+<authors><![CDATA[Barra, E.;  Gordillo, A.;  Gallego, D.;  Quemada, J.]]></authors>
+
+<affiliations><![CDATA[Escuela Tec. Super. de Ing. de Telecomun., Univ. Politec. de Madrid, Madrid, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Internet]]></term>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Adaptation models]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Servers]]></term>
+
+<term><![CDATA[Service-oriented architecture]]></term>
+
+<term><![CDATA[Weapons]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Frontiers in Education Conference, 2013 IEEE]]></pubtitle>
+
+<punumber><![CDATA[6679339]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2013]]></py>
+
+<spage><![CDATA[685]]></spage>
+
+<epage><![CDATA[690]]></epage>
+
+<abstract><![CDATA[This paper presents a model that enables the integration of SCORM packages into web games. It is based on the fact that SCORM packages are prepared to be integrated into Learning Management Systems and to communicate with them. Hence in a similar way they can also be integrated into web games. The application of this model results in the linkage between the Learning Objects inside the package and specific actions or conditions in the game. The educational content will be shown to the players when they perform these actions or the conditions are met. For example, when they need a special weapon they will have to consume the Learning Object to get it. Based on this model we have developed an open source web platform which main aim is to facilitate teachers the creation of educational games. They can select existing SCORM packages or upload their own ones and then select a game template in which the Learning Objects will be integrated. The resulting educational game will be available online. Details about the model and the developed platform are explained in this paper. Also links to the platform and an example of a generated game are provided.]]></abstract>
+
+<issn><![CDATA[0190-5848]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6684913]]></arnumber>
+
+<doi><![CDATA[10.1109/FIE.2013.6684913]]></doi>
+
+<publicationId><![CDATA[6684913]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6684913&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6684913]]></pdf>
+
+</document>
+
+<document>
+
+<rank>16</rank>
+
+<title><![CDATA[From Behavior Modeling to Communication, 3D Presentation and Interaction: An M&amp;amp;S Life Cycle for Serious Games for Training]]></title>
+
+<authors><![CDATA[Rocha, R.V.;  Campos, M.R.;  Boukerche, A.;  Araujo, R.B.]]></authors>
+
+<affiliations><![CDATA[Fed. Univ. of Sao Carlos, Sao Carlos, Brazil]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[behavioural sciences]]></term>
+
+<term><![CDATA[computer based training]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[convergence]]></term>
+
+<term><![CDATA[emergency services]]></term>
+
+<term><![CDATA[open systems]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Analytical models]]></term>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Data models]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Solid modeling]]></term>
+
+<term><![CDATA[Training]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Distributed Simulation and Real Time Applications (DS-RT), 2012 IEEE/ACM 16th International Symposium on]]></pubtitle>
+
+<punumber><![CDATA[6363630]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2012]]></py>
+
+<spage><![CDATA[132]]></spage>
+
+<epage><![CDATA[139]]></epage>
+
+<abstract><![CDATA[The convergence of training simulations with serious games can incite trainees to a more active participation, improving their learning experience and involvement. Games are difficult and expensive to develop thus, methodologies that support both reuse throughout the M&amp;S lifecycle and interoperability are critical. There are different M&amp;S methodologies proposed to facilitate the development of new serious games for training. However, these methodologies typically do not provide support to the whole M&amp;S life cycle, from behavior modeling to communication and 3D presentation and interaction. In this paper, we introduce an M&amp;S methodology to create, reuse and interoperate 3D serious games for training. We refined and validated this methodology by applying it in a practical undergrad discipline, in which students modeled dozens of emergency management training simulations: from START triage and fire fighting to emergency command and operations system. As results, we present a few developed scenarios.]]></abstract>
+
+<issn><![CDATA[1550-6525]]></issn>
+
+<isbn><![CDATA[978-1-4673-2954-5]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6365109]]></arnumber>
+
+<doi><![CDATA[10.1109/DS-RT.2012.25]]></doi>
+
+<publicationId><![CDATA[6365109]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6365109&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6365109]]></pdf>
+
+</document>
+
+<document>
+
+<rank>17</rank>
+
+<title><![CDATA[3D Java web-based games development and deployment]]></title>
+
+<authors><![CDATA[El Rhalibi, A.;  Merabti, M.;  Carter, C.;  Dennett, C.;  Cooper, S.;  Ariff Sabri, M.;  Fergus, P.]]></authors>
+
+<affiliations><![CDATA[Sch. of Comput. & Math. Sci., Liverpool John Moores Univ., Liverpool, UK]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Internet]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[application program interfaces]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[computer graphic equipment]]></term>
+
+<term><![CDATA[program compilers]]></term>
+
+<term><![CDATA[programming environments]]></term>
+
+<term><![CDATA[software libraries]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Application software]]></term>
+
+<term><![CDATA[Computer applications]]></term>
+
+<term><![CDATA[Computer graphics]]></term>
+
+<term><![CDATA[Engines]]></term>
+
+<term><![CDATA[Hardware]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Microcomputers]]></term>
+
+<term><![CDATA[Personal communication networks]]></term>
+
+<term><![CDATA[Power generation]]></term>
+
+<term><![CDATA[Software libraries]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Multimedia Computing and Systems, 2009. ICMCS '09. International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5235870]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[553]]></spage>
+
+<epage><![CDATA[559]]></epage>
+
+<abstract><![CDATA[Currently, Web-based online gaming applications are predominately utilising Adobe Flash or Java Applets as their core technologies. These games are often casual, two-dimensional games and do not utilise the specialist graphics hardware which has proliferated across modern PCs and Consoles. Multi-user online game play in these titles is often either non-existent or extremely limited. Computer games applications which grace the current generation of consoles and personal computers are designed to utilise the increasingly impressive hardware power at their disposal. However, these are commonly distributed using a physical medium or deployed through custom, proprietary networking mechanisms and rely upon platform-specific networking APIs to facilitate multi-user online game play. In order to unify the concepts of these disparate styles of gaming, in this paper we propose a novel integrated development environment called Homura and NetHomura. Homura is based on the Eclipse platform and extends the jME game engine, with new interfaces, content and libraries, thus, providing a software suite that integrates source editors, compilers, including spatial and positional editors to afford advanced graphical functionalities within the IDE. We also present two interconnected systems which are implemented using Java Web Start and JXTA P2P technologies, providing a platform-independent framework capable of deploying hardware accelerated cross-platform, cross-browser online-enabled Java games, as part of the NetHomura Project.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-3756-6]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5256633]]></arnumber>
+
+<doi><![CDATA[10.1109/MMCS.2009.5256633]]></doi>
+
+<publicationId><![CDATA[5256633]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5256633&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5256633]]></pdf>
+
+</document>
+
+<document>
+
+<rank>18</rank>
+
+<title><![CDATA[The Innovation of Education Brought Forward by Educational Games]]></title>
+
+<authors><![CDATA[Wang Yanhong;  Luo Liming;  Liu Lifang]]></authors>
+
+<affiliations><![CDATA[Sch. of Inf. Sci. & Technol., Capital Normal Univ., Beijing, China]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[teaching]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computer networks]]></term>
+
+<term><![CDATA[Computer science]]></term>
+
+<term><![CDATA[Computer science education]]></term>
+
+<term><![CDATA[Educational technology]]></term>
+
+<term><![CDATA[IP networks]]></term>
+
+<term><![CDATA[Information science]]></term>
+
+<term><![CDATA[Motion pictures]]></term>
+
+<term><![CDATA[Stress]]></term>
+
+<term><![CDATA[TV]]></term>
+
+<term><![CDATA[Technological innovation]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Education Technology and Computer Science (ETCS), 2010 Second International Workshop on]]></pubtitle>
+
+<punumber><![CDATA[5458392]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[2]]></volume>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[620]]></spage>
+
+<epage><![CDATA[622]]></epage>
+
+<abstract><![CDATA[The combination of education and games is an inevitable tendency in the information age. Educational games have injected new power to education, causing various changes. This study focuses on the innovation of teaching content, teaching manners, teacher-student relationship brought forward by educational games, to the end of understanding educational games from a different point of view.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-6388-6]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5458807]]></arnumber>
+
+<doi><![CDATA[10.1109/ETCS.2010.185]]></doi>
+
+<publicationId><![CDATA[5458807]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5458807&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5458807]]></pdf>
+
+</document>
+
+<document>
+
+<rank>19</rank>
+
+<title><![CDATA[Serious Games for the Development of Employment Oriented Competences]]></title>
+
+<authors><![CDATA[Guenaga, M.;  Arranz, S.;  Rubio Florido, I.;  Aguilar, E.;  Ortiz de Guinea, A.;  Rayon, A.;  Bezanilla, M.J.;  Menchaca, I.]]></authors>
+
+<affiliations><![CDATA[Fac. of Psychol. & Educ., Univ. of Deusto, Bilbao, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[employment]]></term>
+
+<term><![CDATA[serious games (computing)]]></term>
+
+<term><![CDATA[teaching]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Employment]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Innovation management]]></term>
+
+<term><![CDATA[Problem-solving]]></term>
+
+<term><![CDATA[Research and development]]></term>
+
+<term><![CDATA[Serious games]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Tecnologias del Aprendizaje, IEEE Revista Iberoamericana de]]></pubtitle>
+
+<punumber><![CDATA[6245520]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[8]]></volume>
+
+<issue><![CDATA[4]]></issue>
+
+<py><![CDATA[2013]]></py>
+
+<spage><![CDATA[176]]></spage>
+
+<epage><![CDATA[183]]></epage>
+
+<abstract><![CDATA[This paper presents the research work carried out by an interdisciplinary group of technologists, educators, and entertainment experts from the University of Deusto to develop a serious game to practice generic skills in job-oriented education. This innovative serious game focuses on entrepreneurship skills and problem solving competences. Technology is a facilitator for a new teaching methodology, but it also imposes certain restrictions to be considered by the entire project team.]]></abstract>
+
+<issn><![CDATA[1932-8540]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6634208]]></arnumber>
+
+<doi><![CDATA[10.1109/RITA.2013.2285024]]></doi>
+
+<publicationId><![CDATA[6634208]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6634208&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6634208]]></pdf>
+
+</document>
+
+<document>
+
+<rank>20</rank>
+
+<title><![CDATA[Deploying and debugging educational games using e-Learning standards]]></title>
+
+<authors><![CDATA[del Blanco, A.;  Torrente, J.;  Serrano, A.;  Martinez-Ortiz, I.;  Fernandez-Manjon, B.]]></authors>
+
+<affiliations><![CDATA[Dept. of Software Eng. & Artificial Intell., Complutense Univ. of Madrid, Madrid, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer aided instruction]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+<term><![CDATA[electronic data interchange]]></term>
+
+<term><![CDATA[open systems]]></term>
+
+<term><![CDATA[program debugging]]></term>
+
+<term><![CDATA[program testing]]></term>
+
+<term><![CDATA[software agents]]></term>
+
+<term><![CDATA[software reusability]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Debugging]]></term>
+
+<term><![CDATA[Electronic learning]]></term>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Least squares approximation]]></term>
+
+<term><![CDATA[Packaging]]></term>
+
+<term><![CDATA[Protocols]]></term>
+
+<term><![CDATA[Standards]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Global Engineering Education Conference (EDUCON), 2012 IEEE]]></pubtitle>
+
+<punumber><![CDATA[6196361]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2012]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[7]]></epage>
+
+<abstract><![CDATA[Development, packaging and deployment of educational games following e-Learning standards has benefits, such as improved reusability and interoperability of contents. Moreover, standards can facilitate that games exchange data with other software agents (e.g. Learning Management Systems - LMS) in a standardized manner, which opens up a wide range of possibilities for next generation Game-Based Learning experiences. However, the application of standards to games poses a technical challenge. There is a clear need for tools that simplify this process for teachers and educators with limited technical background. In this paper we present how the &lt;;e-Adventure&gt;; platform is addressing this problem, with special focus in the exchange of data to/from the games. Tools being developed for facilitating packaging, deployment and debugging of educational games with standards are described. On the one hand, these tools facilitate testing and debugging since they allow simulation of game deployment with active communication without needing a back-end LMS. On the other hand, they smooth the learning curve that is needed to understand the standards and their possibilities when combined with games. Finally a case study focusing on the SCORM standard is presented.]]></abstract>
+
+<issn><![CDATA[2165-9559]]></issn>
+
+<isbn><![CDATA[978-1-4673-1457-2]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6201186]]></arnumber>
+
+<doi><![CDATA[10.1109/EDUCON.2012.6201186]]></doi>
+
+<publicationId><![CDATA[6201186]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6201186&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6201186]]></pdf>
+
+</document>
+
+<document>
+
+<rank>21</rank>
+
+<title><![CDATA[Synchronization in Multiplayer Online Games]]></title>
+
+<authors><![CDATA[Angelides, M.;  Agius, H.]]></authors>
+
+<pubtitle><![CDATA[Handbook of Digital Games]]></pubtitle>
+
+<punumber><![CDATA[6774609]]></punumber>
+
+<pubtype><![CDATA[Books & eBooks]]></pubtype>
+
+<publisher><![CDATA[Wiley-IEEE Press]]></publisher>
+
+<py><![CDATA[2014]]></py>
+
+<abstract><![CDATA[This chapter points out the fundamental concepts at the basis of synchronization in multiplayer online games (MOGs). It first describes the principal typologies of game architectures typically employed to support networked multiplayer games, also discussing communication issues among distributed entities. The chapter then focuses on aspects related to the delivery of game events, with respect to the mentioned game architectures. Next, it focuses on event delivery, and finally it discusses typical approaches and algorithms used to keep synchronized the distributed entities in order to maintain the consistency of the distributed game state.]]></abstract>
+
+<isbn><![CDATA[9781118796443]]></isbn>
+
+<arnumber><![CDATA[6774731]]></arnumber>
+
+<doi><![CDATA[10.1002/9781118796443.ch7]]></doi>
+
+<publicationId><![CDATA[6774731]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6774731&contentType=Books+%26+eBooks]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6774731]]></pdf>
+
+</document>
+
+<document>
+
+<rank>22</rank>
+
+<title><![CDATA[Conditional access system interoperability through software downloading]]></title>
+
+<authors><![CDATA[Kamperman, Frank;  van Rijnsoever, B.]]></authors>
+
+<affiliations><![CDATA[Philips Res. Lab., Eindhoven, Netherlands]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[digital television]]></term>
+
+<term><![CDATA[open systems]]></term>
+
+<term><![CDATA[software engineering]]></term>
+
+<term><![CDATA[standardisation]]></term>
+
+<term><![CDATA[telecommunication computing]]></term>
+
+<term><![CDATA[television receivers]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Bandwidth]]></term>
+
+<term><![CDATA[Cost function]]></term>
+
+<term><![CDATA[Digital video broadcasting]]></term>
+
+<term><![CDATA[Impedance]]></term>
+
+<term><![CDATA[Laboratories]]></term>
+
+<term><![CDATA[Open systems]]></term>
+
+<term><![CDATA[Protection]]></term>
+
+<term><![CDATA[Security]]></term>
+
+<term><![CDATA[Software systems]]></term>
+
+<term><![CDATA[US Department of Transportation]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Consumer Electronics, IEEE Transactions on]]></pubtitle>
+
+<punumber><![CDATA[30]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[47]]></volume>
+
+<issue><![CDATA[1]]></issue>
+
+<py><![CDATA[2001]]></py>
+
+<spage><![CDATA[47]]></spage>
+
+<epage><![CDATA[54]]></epage>
+
+<abstract><![CDATA[Interoperability between conditional access (CA) systems and set-top boxes (STB)-CA-STB interoperability-has been an issue from the very beginning of receiver development for digital pay-TV. Interoperability ensures that any service can be received on any (interoperable) STB. The common interface solutions SimulCrypt and MultiCrypt are now standardized. However, these solutions have a number of disadvantages, including the need for service providers to agree on using each other's system, increased bandwidth usage, inflexibility, cost, and limited functionality. This paper describes another solution for CA-STB interoperability, based on downloading interoperable software into the STB. It provides full CA-STB interoperability. Furthermore, it can be introduced relatively easily into future STBs and will require only minimal changes in current CA systems]]></abstract>
+
+<issn><![CDATA[0098-3063]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[920419]]></arnumber>
+
+<doi><![CDATA[10.1109/30.920419]]></doi>
+
+<publicationId><![CDATA[920419]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=920419&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=920419]]></pdf>
+
+</document>
+
+<document>
+
+<rank>23</rank>
+
+<title><![CDATA[Parallel Traffic Management System and Its Application to the 2010 Asian Games]]></title>
+
+<authors><![CDATA[Gang Xiong;  Xisong Dong;  Dong Fan;  Fenghua Zhu;  Kunfeng Wang;  Yisheng Lv]]></authors>
+
+<affiliations><![CDATA[State Key Lab. of Manage. & Control for Complex Syst., Inst. of Autom., Beijing, China]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[data analysis]]></term>
+
+<term><![CDATA[parallel processing]]></term>
+
+<term><![CDATA[reliability]]></term>
+
+<term><![CDATA[safety]]></term>
+
+<term><![CDATA[sport]]></term>
+
+<term><![CDATA[traffic information systems]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Games]]></term>
+
+<term><![CDATA[Monitoring]]></term>
+
+<term><![CDATA[Real time systems]]></term>
+
+<term><![CDATA[Roads]]></term>
+
+<term><![CDATA[Streaming media]]></term>
+
+<term><![CDATA[Vehicles]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Intelligent Transportation Systems, IEEE Transactions on]]></pubtitle>
+
+<punumber><![CDATA[6979]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[14]]></volume>
+
+<issue><![CDATA[1]]></issue>
+
+<py><![CDATA[2013]]></py>
+
+<spage><![CDATA[225]]></spage>
+
+<epage><![CDATA[235]]></epage>
+
+<abstract><![CDATA[Field data are important for convenient daily travel of urban residents, reducing traffic congestion and accidents, pursuing a low-carbon environment-friendly sustainable development strategy, and meeting the extra peak traffic demand of large sporting events or large business activities, etc. To meet the field data demand during the 2010 Asian (Para) Games held in Guangzhou, China, based on the novel Artificial systems, Computational experiments, and Parallel execution (ACP) approach, the Parallel Traffic Management System (PtMS) was developed. It successfully helps to achieve smoothness, safety, efficiency, and reliability of public transport management during the two games, supports public traffic management and decision making, and helps enhance the public traffic management level from experience-based policy formulation and manual implementation to scientific computing-based policy formulation and implementation. The PtMS represents another new milestone in solving the management difficulty of real-world complex systems.]]></abstract>
+
+<issn><![CDATA[1524-9050]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6298010]]></arnumber>
+
+<doi><![CDATA[10.1109/TITS.2012.2210883]]></doi>
+
+<publicationId><![CDATA[6298010]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298010&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6298010]]></pdf>
+
+</document>
+
+<document>
+
+<rank>24</rank>
+
+<title><![CDATA[Difficulties with true interoperability in modeling &amp; simulation]]></title>
+
+<authors><![CDATA[Gallant, S.;  Gaughan, C.]]></authors>
+
+<affiliations><![CDATA[Effective Applic. Corp., Orlando, FL, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[digital simulation]]></term>
+
+<term><![CDATA[middleware]]></term>
+
+<term><![CDATA[open systems]]></term>
+
+<term><![CDATA[software architecture]]></term>
+
+<term><![CDATA[systems analysis]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Computer architecture]]></term>
+
+<term><![CDATA[Data models]]></term>
+
+<term><![CDATA[Middleware]]></term>
+
+<term><![CDATA[Standards]]></term>
+
+<term><![CDATA[Testing]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Simulation Conference (WSC), Proceedings of the 2011 Winter]]></pubtitle>
+
+<punumber><![CDATA[6135535]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2011]]></py>
+
+<spage><![CDATA[2637]]></spage>
+
+<epage><![CDATA[2648]]></epage>
+
+<abstract><![CDATA[Interoperability among distributed models and simulations is complex, tedious and difficult to evaluate. Integrating models that were developed for various purposes with disparate technologies and managed by independent organizations is often the goal. This goal is underestimated due to misleading facts of commonalities between those applications. Common compliance with middleware architectures, modeling goals and even object models gives a false impression of complete interoperability. There are numerous considerations when developing a distributed simulation environment. The event's objectives drive the necessary simulation functions, but how those simulation functions interact needs to be meticulously designed for true interoperability. The semantics of the information transmitted, the behavior necessary across multiple applications, fidelity and resolution synchronization are only a subset of the systems engineering necessary for a coherent System of Systems. This paper covers interoperability complexities and proposes criteria to consider when developing, integrating and executing a distributed modeling and simulation architecture.]]></abstract>
+
+<issn><![CDATA[0891-7736]]></issn>
+
+<isbn><![CDATA[978-1-4577-2108-3]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6147971]]></arnumber>
+
+<doi><![CDATA[10.1109/WSC.2011.6147971]]></doi>
+
+<publicationId><![CDATA[6147971]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6147971&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6147971]]></pdf>
+
+</document>
+
+<document>
+
+<rank>25</rank>
+
+<title><![CDATA[Evaluating Game Technologies for Training]]></title>
+
+<authors><![CDATA[Dan Fu;  Jensen, R.;  Hinkelman, E.]]></authors>
+
+<affiliations><![CDATA[Stottler Henke Assoc., Inc., San Mateo, CA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer based training]]></term>
+
+<term><![CDATA[computer games]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Avatars]]></term>
+
+<term><![CDATA[Context modeling]]></term>
+
+<term><![CDATA[Engines]]></term>
+
+<term><![CDATA[Graphics]]></term>
+
+<term><![CDATA[Humans]]></term>
+
+<term><![CDATA[Marine technology]]></term>
+
+<term><![CDATA[Motion pictures]]></term>
+
+<term><![CDATA[Software maintenance]]></term>
+
+<term><![CDATA[Software tools]]></term>
+
+<term><![CDATA[Space technology]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Aerospace Conference, 2008 IEEE]]></pubtitle>
+
+<punumber><![CDATA[4505446]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2008]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[10]]></epage>
+
+<abstract><![CDATA[In recent years, videogame technologies have become more popular for military and government training purposes. There now exists a multitude of technology choices for training developers. Unfortunately, there is no standard set of criteria by which a given technology can be evaluated. In this paper we report on initial steps taken towards the evaluation of technology with respect to training needs. We describe the training process, characterize the space of technology solutions, review a representative sample of platforms, and introduce evaluation criteria.]]></abstract>
+
+<issn><![CDATA[1095-323X]]></issn>
+
+<isbn><![CDATA[978-1-4244-1487-1]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[4526579]]></arnumber>
+
+<doi><![CDATA[10.1109/AERO.2008.4526579]]></doi>
+
+<publicationId><![CDATA[4526579]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4526579&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4526579]]></pdf>
+
+</document>
+
+</root>
