@@ -54,7 +54,34 @@ class ThreadParser():
         """
         Starts the multithreaded process of retrieving search data from the system
         """
-        
+        pass
+
+    def search_multithreaded(self, query_text):
+        """
+        """
+        for i in range(3):
+            t = Thread(target=create_and_perform_query, args=(query_text, i*100,))
+            t.start()
+
+
+def create_and_perform_query(queryText, start_point):
+    # Perform the query
+
+    # First, create the search engine client
+    se = SearchEngine()
+    # Second, set the query
+    se.set_query(queryText)
+    # Third, set the paging (get full 100, start with the given point)
+    se.set_paging(100, start_point)
+    # Fourth, set filtering
+    # TODO: Missing filtering
+    # Five, perform the query
+    se.perform_query()
+    # Six, get the results
+    res = se.get_results()
+    # And finally, return the results
+    end_point = start_point+100
+    print(str(start_point) + " - " + str(end_point) + " results parsed")
 
 """
 def myfunc(i):

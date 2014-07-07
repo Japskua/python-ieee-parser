@@ -12,6 +12,7 @@ def main():
     tp.prepare_search("games AND interoperability")
 
     tp.show_preprocessing_info()
+    tp.search_multithreaded("games AND interoperability")
 
     """
     # Define the query terms
