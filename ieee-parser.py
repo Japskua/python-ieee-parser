@@ -8,13 +8,11 @@ def main():
     tree = ET.parse('searchresult.xml')
     root = tree.getroot()
 
-
     processor = IEEEProcessor()
     processor.ProcessSearchResults(root)
 
-
     print("Found %i entries", len(processor.entries))
-    print(processor.entries[0].authors)
+    print(processor.entries[0].showEntry())
 
 if __name__ == "__main__":
     sys.exit(main())
