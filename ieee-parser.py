@@ -32,7 +32,6 @@ def main():
     processor.ProcessSearchResults(root)
 
     print("Found %i entries", len(processor.entries))
-    print(processor.entries[0].showEntry())
 
 if __name__ == "__main__":
     sys.exit(main())

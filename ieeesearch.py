@@ -144,11 +144,3 @@ class SearchEngine:
             self._pu = pu
         if ctype is not None:
             self._ctype = ctype
-
-
-se = SearchEngine()
-se.set_query("games AND interoperability")
-se.set_paging(2, 1)
-se.perform_query()
-se.display_results()
-res = se.get_results()
