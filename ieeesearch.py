@@ -1,13 +1,13 @@
 __author__ = 'Janne'
 
-import urllib.request
+import urllib.request, urllib.parse
 
 
 class SearchEngine:
     def __init__(self):
         # The constructor function
         self._contents = ""
-        self._url = "http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?"
+        self._url = "http://ieeexplore.ieee.org/gateway/ipsSearch.jsp"
         self._response = ""
         self._queryText = ""
         self._fullQueryString = ""
@@ -23,16 +23,21 @@ class SearchEngine:
     def query(self):
         # Construct the query
         self.__construct_query()
+
+        self.__displayQuery()
+
         # Then, perform the query
         self._response = urllib.request.urlopen(self._fullQueryString)
         # And read the results
-        self._contents = self._response.read()
+        byte_contents = self._response.read()
+        # And finally, convert the bytes into utf-8
+        self._contents = byte_contents.decode("utf8")
 
     def display_results(self):
         print(self._contents)
 
     def set_query(self, text):
-        self._queryText = text
+        self._queryText = urllib.parse.quote(text)
 
     def set_paging(self, number_to_fetch, sequence_start):
         if number_to_fetch != 0:
@@ -72,6 +77,9 @@ class SearchEngine:
         if self._rs != 0:
             self._fullQueryString += "&rs=" + str(self._rs)
 
+    def get_results(self):
+        return self._contents
+
     # Sets the filtering, if wanted
     def set_filtering(self, oa=0, pn=None, pys=None, pye=None, pu=None, ctype=None):
         # Set the filtering terms
@@ -93,14 +101,4 @@ se.set_query("games AND interoperability")
 se.set_paging(2, 1)
 se.query()
 se.display_results()
-
-#se = SearchEngine()
-#se.query_text("games AND interoperability")
-#se.query()
-#se.display_results()
-
-#url = "http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?querytext=games%20AND%20interoperability&hc=3&rs=8"
-#response = urllib.request.urlopen(url)
-#contents = response.read()
-
-#print(contents)
+res = se.get_results()
