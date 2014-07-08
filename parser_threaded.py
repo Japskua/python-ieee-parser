@@ -1,6 +1,7 @@
 __author__ = 'Janne'
 
 from threading import Thread
+from queue import Queue
 from ieeesearch import SearchEngine
 from ieeeprocessor import IEEEProcessor
 import xml.etree.ElementTree as ET
@@ -58,13 +59,35 @@ class ThreadParser():
 
     def search_multithreaded(self, query_text):
         """
+        Performs the search in multithreaded manner
+        Searching for 1-100, then 101-200, 201-300, etc...
         """
+
+        # list to keep track of all the threads
+        threads = []
+        # Make the results queue
+        result_queue = Queue()
+
+        # First, initialize all the threads
         for i in range(3):
-            t = Thread(target=create_and_perform_query, args=(query_text, i*100,))
+            t = Thread(target=create_and_perform_query, args=(query_text, result_queue, (i*100 + 1),))
+            threads.append(t)
             t.start()
 
+        # Then, loop through all the results, ordering to wait until all are done
+        for i in range(len(threads)):
+            threads[i].join()
 
-def create_and_perform_query(queryText, start_point):
+        print("All threads finished")
+        print(result_queue.qsize())
+
+        # Then, return the queue
+        return result_queue
+
+
+
+
+def create_and_perform_query(queryText, results, start_point):
     # Perform the query
 
     # First, create the search engine client
@@ -79,9 +102,15 @@ def create_and_perform_query(queryText, start_point):
     se.perform_query()
     # Six, get the results
     res = se.get_results()
-    # And finally, return the results
+    # Put it to the queue
+    results.put(res)
+
+    # Give some info on what has happened so far
     end_point = start_point+100
     print(str(start_point) + " - " + str(end_point) + " results parsed")
+
+
+
 
 """
 def myfunc(i):
