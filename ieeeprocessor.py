@@ -10,6 +10,14 @@ class IEEEProcessor:
         # Set the entries to be empty
         self.entries = []
 
+    def get_entries(self):
+        """
+        Gets the entries after processing
+        :return: A list of Entry class entries
+        """
+        # Return the entries
+        return self.entries
+
     # Process the document to entry
     def ProcessDocumentToEntry(self, child):
         """

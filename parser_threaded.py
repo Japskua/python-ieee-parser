@@ -51,11 +51,49 @@ class ThreadParser():
         print("Found %i entries" % self._total_found)
         print("Processing this requires %i threads" % self._threads)
 
-    def process_multi_threaded(self):
+    def search_and_process(self, query_text):
+        """
+        Searches and Processes the IEEE database according to the query
+        :return A Qeueue containing the result entries
+        """
+
+        # First, make the search
+        search_results = self.search_multithreaded(query_text)
+        # Second, process the results
+        process_results = self.process_multi_threaded(search_results)
+        # And finally, we have it ALL
+
+        print("Whole job done")
+        # Return the results
+        return process_results
+
+    def process_multi_threaded(self, process_queue):
         """
         Starts the multithreaded process of retrieving search data from the system
         """
-        pass
+
+        # First, make a list of threads to keep count
+        threads = []
+        # Make a results queue
+        result_queue = Queue()
+
+        # First, we need to loop over the result queue
+        for i in range(process_queue.qsize()):
+            # Make a new thread
+            t = Thread(target=perform_search, args=(process_queue.get(), result_queue, ))
+            threads.append(t)
+            t.start()
+
+        # Then, loop through the threads list and wait for all to end
+        for i in range(len(threads)):
+            # Join the threads
+            threads[i].join()
+
+        print("All processing threads finished")
+        print(result_queue.qsize())
+
+        # Then, return the queue
+        return result_queue
 
     def search_multithreaded(self, query_text):
         """
@@ -78,13 +116,24 @@ class ThreadParser():
         for i in range(len(threads)):
             threads[i].join()
 
-        print("All threads finished")
+        print("All search threads finished")
         print(result_queue.qsize())
 
         # Then, return the queue
         return result_queue
 
 
+def perform_search(xml_string, results):
+    # Initialize the processor
+    processor = IEEEProcessor()
+
+    # Then, read the XML string into a ETree
+    root = ET.fromstring(xml_string)
+    # Next, send it for processing
+    processor.ProcessSearchResults(root)
+
+    # And finally, get the results and save them to the results Queue
+    results.put(processor.get_entries())
 
 
 def create_and_perform_query(queryText, results, start_point):
