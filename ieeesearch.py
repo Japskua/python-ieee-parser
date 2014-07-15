@@ -1,6 +1,7 @@
 __author__ = 'Janne'
 
 import urllib.request, urllib.parse
+import sys
 
 
 class SearchEngine:
@@ -53,11 +54,17 @@ class SearchEngine:
         self.__displayQuery()
 
         # Then, perform the query
-        self._response = urllib.request.urlopen(self._fullQueryString)
-        # And read the results
-        byte_contents = self._response.read()
-        # And finally, convert the bytes into utf-8
-        self._contents = byte_contents.decode("utf8")
+        try:
+            self._response = urllib.request.urlopen(self._fullQueryString)
+            # And read the results
+            byte_contents = self._response.read()
+            # And finally, convert the bytes into utf-8
+            try:
+                self._contents = byte_contents.decode("utf8")
+            except UnicodeDecodeError as err:
+                print("Could not decode the contents! {0}".format(err))
+        except TimeoutError as err:
+            print("The connection timed out! Don't blame me! {0}".format(err))
 
     def display_results(self):
         """
