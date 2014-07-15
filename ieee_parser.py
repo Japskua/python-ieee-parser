@@ -1,36 +1,21 @@
-from ieeeprocessor import IEEEProcessor
-import xml.etree.ElementTree as ET
-from ieeeprocessor import IEEEProcessor
 from parser_threaded import ThreadParser
-from csv_writer import CSVWriter
-import sys
+from ieee_shell import IEEEShell
 
 
-def main():
+def main(searchTerms):
 
     # Initialize the search engine
-    #tp = ThreadParser()
-    #tp.prepare_search("games AND interoperability")
+    tp = ThreadParser()
+    tp.prepare_search(searchTerms)
 
-    #tp.show_preprocessing_info()
+    tp.show_preprocessing_info()
     #tp.search_and_process("games AND interoperability")
     #tp.search_multithreaded("games AND interoperability")
 
-    # Construct the tree by parsing the XML file
-    tree = ET.parse('searchresult.xml')
-    # Then, get the root of the tree
-    root = tree.getroot()
-
-    # Then, parse it to Entry
-    processor = IEEEProcessor()
-    processor.ProcessSearchResults(root)
-
-    print("Found %i entries" % len(processor.entries))
-
     # Okay, now we need to process all the entries into a .csv file
     # Initialize the csv writer
-    csvWriter = CSVWriter()
-    csvWriter.write_to_file("test.csv", processor.entries)
+    #csvWriter = CSVWriter()
+    #csvWriter.write_to_file("test.csv", processor.entries)
 
 
 
@@ -63,6 +48,6 @@ def main():
     print("Found %i entries", len(processor.entries))"""
 
 if __name__ == "__main__":
-    sys.exit(main())
+    IEEEShell().cmdloop()
 
 

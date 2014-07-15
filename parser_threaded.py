@@ -14,6 +14,7 @@ class ThreadParser():
     def __init__(self):
         self._threads = 0
         self._finished = 0
+        self._total_found = 0
 
     def prepare_search(self, query_string):
         """
@@ -39,7 +40,7 @@ class ThreadParser():
         # that can be searched at once (100)
         self._threads = count/100
         # +1 if the count is not EXACT 100
-        if count%100 != 0:
+        if count % 100 != 0:
             self._threads += 1
 
 
@@ -51,14 +52,14 @@ class ThreadParser():
         print("Found %i entries" % self._total_found)
         print("Processing this requires %i threads" % self._threads)
 
-    def search_and_process(self, query_text):
+    def search_and_process(self, query_text, limit):
         """
         Searches and Processes the IEEE database according to the query
         :return A Qeueue containing the result entries
         """
 
         # First, make the search
-        search_results = self.search_multithreaded(query_text)
+        search_results = self.search_multithreaded(query_text, limit)
         # Second, process the results
         process_results = self.process_multi_threaded(search_results)
         # And finally, we have it ALL
@@ -95,7 +96,7 @@ class ThreadParser():
         # Then, return the queue
         return result_queue
 
-    def search_multithreaded(self, query_text):
+    def search_multithreaded(self, query_text, limit=0):
         """
         Performs the search in multithreaded manner
         Searching for 1-100, then 101-200, 201-300, etc...
@@ -105,9 +106,12 @@ class ThreadParser():
         threads = []
         # Make the results queue
         result_queue = Queue()
+        # Limit the query if wanted
+        if limit == 0:
+            limit = int(self._threads)
 
         # First, initialize all the threads
-        for i in range(3):
+        for i in range(limit):
             t = Thread(target=create_and_perform_query, args=(query_text, result_queue, (i*100 + 1),))
             threads.append(t)
             t.start()

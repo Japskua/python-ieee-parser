@@ -33,10 +33,13 @@ class IEEEProcessor:
             if document.tag == "rank":
                 rank = document.text
             elif document.tag == "authors":
-                authors = document.text.replace(";", "")
+                try:
+                    authors = document.text.replace(";", "")
+                except AttributeError:
+                    authors = document.text
+                    print("Found Erroneous information" + str(authors))
             elif document.tag == "title":
                 title = document.text.replace(";", "")
-                print(title)
         # Create a new entry from the data and return it
         return Entry(rank, authors, title)
 
