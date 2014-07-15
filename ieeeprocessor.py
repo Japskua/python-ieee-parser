@@ -33,9 +33,10 @@ class IEEEProcessor:
             if document.tag == "rank":
                 rank = document.text
             elif document.tag == "authors":
-                authors = document.text
+                authors = document.text.replace(";", "")
             elif document.tag == "title":
-                title = document.text
+                title = document.text.replace(";", "")
+                print(title)
         # Create a new entry from the data and return it
         return Entry(rank, authors, title)
 
