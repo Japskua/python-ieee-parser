@@ -4,6 +4,7 @@ __author__ = 'Janne'
 import cmd, sys
 from parser_threaded import ThreadParser
 from csv_writer import CSVWriter
+from time import time
 
 class IEEEShell(cmd.Cmd):
     """
@@ -35,11 +36,19 @@ class IEEEShell(cmd.Cmd):
             print("You need to set keywords first with keywords <keywords> command")
             return
         print("Using the following terms to do the search:" + self.searchTerms)
+        # Parse the arguments
+        if arg == "":
+            arg = 0
+        print("Starting the search")
+        start = time()
         # Get the results
         results = self.tp.search_and_process(self.searchTerms, int(arg))
         # And parse them to proper listing
         self.results_to_listing(results)
-        print("Searching done! You can write the results by calling write <filename>")
+        end = time()
+        print("Search and retrieval done")
+        print("The whole process took %f seconds" % (end-start))
+        print("You can write the results by calling write <filename>")
 
     def results_to_listing(self, results):
         """
