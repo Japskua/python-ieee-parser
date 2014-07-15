@@ -13,4 +13,4 @@ class Entry:
         print("Authors: " + str(self.authors))
 
     def getEntryDataForCSV(self, delimiter):
-        return str(self.rank).strip("()\',") + delimiter + self.title.replace(",", "") + delimiter + str(self.authors).strip("()\',").replace(".", "").replace(",", "")
+        return str(self.rank).strip("()\',").replace("\"", "") + delimiter + self.title.replace(",", "").replace("\"", "") + delimiter + str(self.authors).strip("()\',").replace(".", "").replace(",", "").replace("\"", "")
